@@ -1,3 +1,3 @@
-30 8 * * 3 ~/.virtualenvs/discord/bin/python3 /home/archer/scripts/camernoob/camernoob.py -c 1141489599957442620 -a /home/archer/scripts/camernoob/thursday.jpg -m /home/archer/scripts/camernoob/thursRole.txt
+30 8 * * 3 ~/.virtualenvs/discord/bin/python3 /home/archer/git/camernoob/camernoob.py -c 1141489599957442620 -a /home/archer/git/camernoob/thursday.jpg -m /home/archer/git/camernoob/thursRole.txt
 
-0 21 * * * ~/.virtualenvs/discord/bin/python3 /home/archer/scripts/camernoob/camernoob.py -c 1209286812649132042 -f reflection
+0 21 * * * ~/.virtualenvs/discord/bin/python3 /home/archer/git/camernoob/camernoob.py -c 1209286812649132042 -f reflection
